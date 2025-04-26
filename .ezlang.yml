@@ -1,0 +1,3 @@
+files:
+  - path: "locale/sv/LC_MESSAGES/django.po"
+    lang: sv
